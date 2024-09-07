@@ -19,8 +19,8 @@ const bool appendSpaces = true; // makes all SSIDs 32 characters long to improve
 const char ssids[] PROGMEM = {
   "CCP steps down\n"
   "XiJinping steps down\n"
-  "Human rights!\n"
-  "Freedom of Speech!\n"
+  "Human rights\n"
+  "Freedom of Speech\n"
   "CCP steps down\n"
   "No GFW\n"
   "Freedom Network\n"
